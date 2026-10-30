@@ -1,4 +1,4 @@
-# BadgeStudio
+# badge-studio
 
 适用于 Windows 的工牌排版与打印工具。导入 Excel 数据和 `.paper` 模板，即可批量生成带照片的工牌，预览后导出 PDF 或直接打印。
 
